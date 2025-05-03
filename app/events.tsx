@@ -26,21 +26,21 @@ export default function EventsScreen() {
       const mockEvents: Event[] = [
         {
           id: '1',
-          title: 'Dublin Music Festival',
-          description: 'Annual music festival in Phoenix Park',
+          title: 'HackUPC',
+          description: 'Best Hackathon Ever',
           location: {
-            latitude: 53.3498,
-            longitude: -6.2603
+            latitude: 41.3882,
+            longitude: 2.1123
           },
           datetime: new Date().toISOString()
         },
         {
           id: '2',
-          title: 'Food & Drink Festival',
-          description: 'Street food and craft beverages in Temple Bar',
+          title: 'Barcelona VS Real Madrid',
+          description: 'Olympic Stadium: Laliga',
           location: {
-            latitude: 53.3449,
-            longitude: -6.2675
+            latitude: 41.3653,
+            longitude: 2.1560
           },
           datetime: new Date().toISOString()
         }
