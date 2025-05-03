@@ -42,7 +42,7 @@ export default function EventsScreen() {
             latitude: 41.3653,
             longitude: 2.1560
           },
-          datetime: new Date().toISOString()
+          datetime: new Date("2025-05-11T16:15:00Z").toISOString()
         }
       ];
       
