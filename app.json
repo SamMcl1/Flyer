@@ -1,5 +1,6 @@
 {
   "expo": {
+    "sdkVersion": "53.0.0",
     "name": "irish-transport-app",
     "slug": "irish-transport-app",
     "version": "1.0.0",
